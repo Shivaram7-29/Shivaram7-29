@@ -1,8 +1,8 @@
-# Hi, I'm Shiva Rama Sai 👋
+# Hi, I'm Shiva Ram👋
 
 🎓 AI & ML Undergraduate
 
-💻 Python Developer
+💻 Python Dev
 
 🤖 Interested in Machine Learning, Generative AI, RAG, and AI Agents
 
