@@ -45,6 +45,3 @@ Built an NLP model for sentiment classification and text analysis.
 
 ---
 
-## Connect With Me
-
-- LinkedIn: [https://www.linkedin.com/in/shivaram29]
